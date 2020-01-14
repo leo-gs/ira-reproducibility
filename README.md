@@ -1,3 +1,6 @@
+These data correspond to the retweet network discussed in this paper:
+Ahmer Arif, Leo Graiden Stewart, and Kate Starbird. 2018. Acting the Part: Examining Information Operations Within #BlackLivesMatter Discourse. Proc. ACM Hum.-Comput. Interact. 2, CSCW, Article 20 (November 2018), 27 pages. DOI:https://doi.org/10.1145/3274289
+
 ## nodetable.csv
 Each node represents a Twitter account (22,020 observations x 7 variables)
 - Id: the hashed user id (maps to the `Source` and `Target` columns in the edgetable)
